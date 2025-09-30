@@ -1,2 +1,2 @@
 # ai-cirqit-triagify
-This tool helps Trend Micro support teams analyze and visualize support case data more effectively. This tool is designed to improve accuracy, transparency, and decision-making in managing support tickets.
+This tool helps Trend Micro support teams analyze and visualize support case data more effectively. It is designed to improve accuracy, transparency, and decision-making in managing support tickets. The tool reduces manual effort, minimizes misclassification, and enhances resource allocation. The solution will ultimately improve accuracy, efficiency, and response times in the cybersecurity support process.
